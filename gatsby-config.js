@@ -6,7 +6,7 @@ module.exports = {
             summary: `artiste`,
         },
         description: `A blog by Dick Thole`,
-        siteUrl: `https://www.trustcharliedickens.nl`,
+        siteUrl: `https://www.trustcharliedickens.com`,
     },
     plugins: [
         {
