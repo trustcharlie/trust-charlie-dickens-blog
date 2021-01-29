@@ -12,7 +12,7 @@ It seeks to express and celebrate a particular moody, dark, sorrowful aesthetic.
 
 I just now googled around a little bit, and found [this interesting blog](https://blogs.unimelb.edu.au/sciencecommunication/2018/09/24/the-sadness-paradox-why-do-we-enjoy-listening-to-music-that-makes-us-sad/). Check it out if you are curious about a well-informed exploration of why humans are attracted to music that channels sadness. 
 
-This playlist has two main inspirations: a very cool [Blue Monday-themed playlist](https://open.spotify.com/playlist/1CAxQAr41Dy57dYnYS40Rn?si=QP0Glt1gSvCYCAbmJ4GT-w) I found last year (I blatantly borrowed some tracks form it) and the excellent movie [Only lovers left alive](https://youtu.be/ycOKvWrwYFo). 
+This playlist has two main inspirations: a very cool [Blue Monday-themed playlist](https://open.spotify.com/playlist/1CAxQAr41Dy57dYnYS40Rn?si=QP0Glt1gSvCYCAbmJ4GT-w) I found last year (I blatantly borrowed some tracks from it) and the excellent movie [Only lovers left alive](https://youtu.be/ycOKvWrwYFo). 
 
 
 ###Now for the visual.
@@ -40,7 +40,9 @@ I mean, really bask in the glory that is me ridin' that dark wave like I am the 
 
 And now look at this visual I curated in conjunction with this playlist. 
 
-![Sternenfall](sternenfall)
+![a picture of a painting](Sternenfall1.jpg)
+
+
 
 *Sternenfall by Anselm Kiefer, 1995. I do not own this image.*
 
