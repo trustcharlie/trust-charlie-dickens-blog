@@ -6,7 +6,7 @@ description: ""
 ---
 
 ###I apologize in advance for the uhh
-###lack of vibey vibes in this one. 
+###lack of vibes in this one. 
 
 ![george from Seinfeld](george.jpg)
 

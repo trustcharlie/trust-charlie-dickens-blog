@@ -9,7 +9,7 @@ Few experiences in music are as satisfying as rediscovering an album. It feels l
 
 For me, the circumstances of rediscovery don’t matter all that much. Maybe I actively hated the album in the past. Maybe (probably) the first listen didn’t even make an impression on me at all. Music isn't always love at first sight. That’s fine.
 
-###It's funny to think about the way our perception of music is ever-changing. 
+###It's funny to think about the way our perception of music is always changing. 
 I have gone through countless different modes, as I am sure many music listeners have as well. These different modes of listening are not linear and not logical. They are ambiguous, they overlap and sometimes they're outright contradictory. For instance, I would say that my music consumption in the latter half of 2020 was defined by a departure from Hip-hop and a return to heavier, guitar based music. 
 
 This ranged from poetic-yet-in-your-face hardcore (check out [Drug Church](https://www.youtube.com/watch?v=8edYyKxEVZs)) to guilty-pleasure-goth goth (to this day I mess with [Bauhaus](https://youtu.be/N8n6k8QcU3k) and [Type O Negative](https://youtu.be/S4FC1EEdY1s) heavy) and straight-up-doomer-noise (case in point: [Daughters](https://youtu.be/534uNzGoR1s)). 
