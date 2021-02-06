@@ -1,7 +1,7 @@
 ---
 path: "/hello-world"
-date: 2021-02-02 T17:12:33.962Z
-title: "On language and LinkedIn titles: a rant that will (perhaps only) make sense in Dutch"
+date: 2021-02-06 T13:12:33.962Z
+title: "On language and LinkedIn titles"
 description: ""
 ---
 
