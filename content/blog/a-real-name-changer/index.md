@@ -23,7 +23,7 @@ description: ""
 A surname is a hereditary name. A given name is *given* to you.
 
 For almost all of my life, I have struggled to identify with my given name. 
-I could go into hundreds of different reasons why and just as many anecdotes those reasons up. 
+I could go into hundreds of different reasons why and just as many anecdotes to back those reasons up. 
 Some painful, some funny. 
 
 But I won’t do that. 
