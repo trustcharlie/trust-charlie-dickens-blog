@@ -49,7 +49,7 @@ I also know that I have played with the possibility of changing my name througho
 
  **“Running away means showing the world how insecure you truly are, and that can’t happen”**
 
- **“Changing it meaning losing face”**
+ **“Changing it means losing face”**
 
 ![a picture of charlie chaplin](charlie chaplin.jpg)
 
@@ -69,7 +69,7 @@ I decided I didn’t want that anymore, so I hit myself with an ultimatum:
 
 it’s either **them** or **me**. 
 
-Or rather:   it’s either **my self-perception thought others’ eyes** or **me**.
+Or rather:   it’s either **my self-perception throught others’ eyes** or **me**.
 
 I am happy to say, I chose me.
 
