@@ -2,10 +2,10 @@ module.exports = {
     siteMetadata: {
         title: `Trust Charlie Dickens`,
         author: {
-            name: `Dick Thole`,
+            name: `Charlie Thole`,
             summary: `artiste`,
         },
-        description: `A blog by Dick Thole`,
+        description: `A blog by Charlie Thole`,
         siteUrl: `https://www.trustcharliedickens.com`,
     },
     plugins: [
@@ -51,8 +51,8 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `Dick Thole`,
-                short_name: `Dick`,
+                name: `Charlie Thole`,
+                short_name: `Charlie`,
                 start_url: `/`,
                 background_color: `#ffffff`,
                 theme_color: `#663399`,
