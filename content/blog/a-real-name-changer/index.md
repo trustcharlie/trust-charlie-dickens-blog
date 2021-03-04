@@ -33,23 +33,15 @@ I know that my given name has been the cause of a great deal of shame, stress an
 
 I also know that I have played with the possibility of changing my name throughout the past 10 years or so. 
 
- However, a serious case of self sabotage plus a serious lack of self love has kept me from biting the bullet in the past:
+However, a serious case of self sabotage plus a serious lack of self love has kept me from biting the bullet in the past:
 
-**“Just own it”**
-
- **“Face it head-on”** 
-
- **“Take pride & find power in it”**
+**“Just own it”**;
+**“Face it head-on”**; 
+**“Take pride & find power in it”**
 
 ~
 
- **“Changing it means admitting defeat”**
-
- **“Admitting defeat means running away”**
-
- **“Running away means showing the world how insecure you truly are, and that can’t happen”**
-
- **“Changing it means losing face”**
+ **“Changing it means admitting defeat”**; **“Admitting defeat means running away”**; **“Running away means showing the world how insecure you truly are, and that can’t happen”** s**“Changing it means losing face”**
 
 ![a picture of charlie chaplin](charlie chaplin.jpg)
 
@@ -57,7 +49,7 @@ Looking back and analyzing my own behavior has been both confrontational and hel
 
 Through an unfortunate series of events (I see you, 2020), I now find my self in a fortunate place in life.
 
- Funny how that works right?
+Funny how that works right?
 
 For the first time, I saw my behavior for what it was. 
 I realized I wasn’t living my life for me. 

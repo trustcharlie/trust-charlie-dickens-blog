@@ -56,7 +56,7 @@ Now I don’t know about you, but I hate zoning out like that. I don’t enjoy f
 ###So what’s a boy to do[?](https://www.youtube.com/watch?v=UyOOYn3A_6I) 
 How can you win a fight against a system that is smarter more powerful than you? Maybe someday I’ll give it a try, but I just don’t feel like deleting everything right now. 
 
-  This is where my 7-step plan comes in. Don't worry, its tried-and-true, totally scientifically substantiated and *definitely effictive*:
+  This is where my 7-step plan comes in. Don't worry, it's tried-and-true, totally scientifically substantiated and *definitely effective*:
 
 1. Don’t stop consuming content
 2. Do start watching content *intentionally*:
