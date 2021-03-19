@@ -10,7 +10,7 @@ description: ""
 
 Studying organizational culture is both wonderfully adventurous and hopelessly confusing. 
 
-Adventurous because it may provide a gateway into a fascinating microcosmos full of rituals, strange words and other idiosyncratic oddities. Confusing because people in organizations rarely talk about organizational culture the same way they do organizational culture. 
+Adventurous because it may provide a gateway into a fascinating microcosmos full of rituals, strange words and other idiosyncratic oddities. Confusing because people in organizations rarely *talk about* organizational culture the same way they *"do"* organizational culture. 
 
 Organizations can be very cooperative, fruitful objects of study - provided that they believe that the topic of study is somehow of value or benefit to them. If the topic of study is organizational culture (or worse yet: their organizational culture), their willingness and enthusiasm tends to vanish. During my time as a student in Culture, Organization and Management, I encountered this first-hand. 
 
@@ -23,7 +23,7 @@ After some negotiations, I was ultimately able to join MusicMatch as an administ
 
 As far as they were concerned, I was researching the presupposed tension between artistic and economic logic within the context of a commercial music agency. Technically, I did research that. However, between the lines of what was being said while I was working away in their open office space in the centre of Amsterdam, I picking up certain themes that ran much deeper than my initial research question. The talking, laughter, complaining, confusion, sighing, shouting and singing (there was lots of that) - in other words: the organizations’ everydayness - painted a picture that was much more complex than I could have imagined initially. 
 
-I have tried to capture part of that picture in my [MSc thesis](https://www.ubvu.vu.nl/pub/fulltext/scripties/26_2544913_0.pdf) The Wow-Jobs, The Cash Cows and The Misfits: An ethnography on the tension between economic logic and artistic logic in a commercial music agency. I’m still not over how much of a mouthful that title is - what the hell was I thinking?. 
+I have tried to capture part of that picture in my [MSc thesis](https://www.ubvu.vu.nl/pub/fulltext/scripties/26_2544913_0.pdf) 'The Wow-Jobs, The Cash Cows and The Misfits: An ethnography on the tension between economic logic and artistic logic in a commercial music agency'. I’m still not over how much of a mouthful that title is - what the hell was I thinking?. 
 
 *Of course, the portrait that is an organizations’ culture is never completely finished. Yet I am convinced it would not even be possible to make a rough sketch of it without ethnography. 
 *
