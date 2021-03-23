@@ -74,3 +74,8 @@ That means I may still get disappointed, things may still hurt me. But it also m
 
 ###OK, I’m going to throw up now. 
 
+
+
+*Oh and by the way,* I wrote this blog in part as a reminder to myself. This is the way I **want** to look at my life. But I am not enlightened or anything. 
+
+I got it right this time, with the running and the covid and shit. But I get it wrong in other aspect of my life all the time. Oh well, all part of the process I guess. 
