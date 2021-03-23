@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Trust Charlie Dickens]]></title><description><![CDATA[A blog by Charlie Thole]]></description><link>https://www.trustcharliedickens.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 23 Mar 2021 21:46:30 GMT</lastBuildDate><item><title><![CDATA[On progress and process]]></title><description><![CDATA[If there’s one thing I hate, it’s sounding like a self-help guru. The self-righteousness, the verbosity. The illusions of grandeur.  It’s…]]></description><link>https://www.trustcharliedickens.com/progress-and-process/</link><guid isPermaLink="false">https://www.trustcharliedickens.com/progress-and-process/</guid><pubDate>Tue, 23 Mar 2021 22:30:33 GMT</pubDate><content:encoded>&lt;h3&gt;If there’s one thing I hate, it’s sounding like a self-help guru.&lt;/h3&gt;
+&lt;p&gt;The self-righteousness, the verbosity. The illusions of grandeur. &lt;/p&gt;
+&lt;p&gt;It’s not an easy thing to get right. That’s because it’s not easy to take into account the context, feelings, experiences of someone that isn’t me. I never want to downplay another human’s issues. &lt;/p&gt;
+&lt;p&gt;Yet with writing on self-help, you inevitably run the risk of doing just that. &lt;/p&gt;
+&lt;h5&gt;OK, now watch me do the things I hate. With passion. Bear with me.&lt;/h5&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 263px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6ce703278e6f29239b18a1241b708b17/5d001/big%20brain%20time.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 527.7027027027026%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCABqABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFAwIB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIBAP/aAAwDAQACEAMQAAABh756Map4CjFOXQuZp6Tvbej6xKLBKTO3+LJMsGdA29LXUmGY5Tm1T1ESL6uzn3JoDx2f/8QAHhAAAgMBAQEAAwAAAAAAAAAAAQIAAxEEEiIhMUL/2gAIAQEAAQUCUQr+D+65/MSvYOX4dfLb8r1YrNp84y0RuVwWK+67UxrwsNDPBy2iHnsMq3y9rCwaY7iC5MrspwVpF5hLKSrhi5pKuloUvzhdsRPJzavOHBHA9YMYCMBv/8QAHhEAAgEDBQAAAAAAAAAAAAAAAAEQERMhAxIgUWH/2gAIAQMBAT8Bda8FkxNs2MWr4XV1P//EABoRAAIDAQEAAAAAAAAAAAAAAAARAQIQIWH/2gAIAQIBAT8BrELI4IWIY/RWL1Y7b//EACMQAAICAgECBwAAAAAAAAAAAAABESECEDESQSJCUXGBkaH/2gAIAQEABj8C2z23OLI10x+6hHJ6lpENIg6saRMJlwW18kLIrL6Kerz7ix80weIaMMsKa5Jy5LvVLSS5J7a4FRwf/8QAIBABAAICAgIDAQAAAAAAAAAAAQARITFBUWFxgZGh0f/aAAgBAQABPyHBdfcMuonqCkdRhlFFIZhyxKXYP7BYls3UFouGPSfuLlYpLN1mWltXwamgexBK/wBVLKA8CtRZE8kBwB0xq8niOr4CqaBOYSsahLbIUb3BVU+IJ4L0vUojfAfW5414JhTHZO8l4F6LdRC0XY1Fa/kFrVKuX1KqK23ojGzhh/sttTfpd7qMAhJxj6n/2gAMAwEAAgADAAAAEODsfhTSskQJvSP/AP/EABwRAAICAgMAAAAAAAAAAAAAAAABESEQMUFhkf/aAAgBAwEBPxB9GFcyJuB+VYynRYkiRI0IhyO56aoaP//EABwRAQADAAIDAAAAAAAAAAAAAAEAESEQMUFRYf/aAAgBAgEBPxDReF0Yi40OrlPqCvJiUD4izc8DLgRVxLR4/8QAIRABAQACAgIDAAMAAAAAAAAAAREAITFBUWFxgZGh4fD/2gAIAQEAAT8QCWFWEUM4wFYSfCYjPKTDgR8XDtPQOvmYlFarXEFIXh/GUvFNgtP3BuD9MGUcOHjKq1gPa+XE3pcH8ho5ORXI72GJ8QSgcmUPhqLfvecALRuW9zKfALxefdxIhdjafJMSsY22/wCM2WIO0Do4xWhHHlOs4rgClOdz95xQw3VUM14mDAOX9XjAxSktU/r1lv2iBAOjAhpBBvtt44xm6VQmCBtr/t5u4BpWMyVGQsKgxPOtYjcrsbsHX0GfpwaKffTFJRovvA0CPvkIDkCPk+cm9IG9OL4Zdkyxc8EKZVkDSUwck4dM/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;big brain time&quot;
+        title=&quot;big brain time&quot;
+        src=&quot;/static/6ce703278e6f29239b18a1241b708b17/5d001/big%20brain%20time.jpg&quot;
+        srcset=&quot;/static/6ce703278e6f29239b18a1241b708b17/a80bd/big%20brain%20time.jpg 148w,
+/static/6ce703278e6f29239b18a1241b708b17/5d001/big%20brain%20time.jpg 263w&quot;
+        sizes=&quot;(max-width: 263px) 100vw, 263px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;It recently struck me that in life, there is a confusion in tongues between the words ‘progress’ and ‘process’.&lt;/h3&gt;
+&lt;p&gt;Let me explain.&lt;/p&gt;
+&lt;p&gt;  I was supposed to run my first half marathon on March 21st, 2021. It was planned some months ago, and I had been rigorously training for it ever since. &lt;/p&gt;
+&lt;p&gt;It was supposed to be cathartic; a celebration of the many hours of hard work (and the subsequent progress) I had been doing since the summer of 2020. I had visualized myself crossing the finish line countless times. &lt;/p&gt;
+&lt;p&gt;Start slow, &lt;/p&gt;
+&lt;p&gt; dose your energy during the first 10K, &lt;/p&gt;
+&lt;p&gt; eat half a banana on 12.5K, &lt;/p&gt;
+&lt;p&gt; pick up the pace, &lt;/p&gt;
+&lt;p&gt; hydrate,&lt;/p&gt;
+&lt;p&gt;  finish strong,&lt;/p&gt;
+&lt;p&gt;maybe cry a petite tear of pride &amp;#x26; joy. &lt;/p&gt;
+&lt;p&gt;On March 9th, I ran 15K at a 5:24/K pace.
+On March 12th, I got sick. Nothing serious, just sick.
+You know, that virus thing people have been yapping about on TV non stop.
+ On March 21st, I ran 0K. &lt;/p&gt;
+&lt;p&gt;Sure, I was disappointed, still am. But I realized one very crucial thing:
+ My disappointment had little do with the cancelled half marathon. I was more frustrated with the fact that I could not run for about 11 days. &lt;/p&gt;
+&lt;p&gt;I ran today. Not a single time did I think about that half marathon. I was just excited to be out running again, even though I can’t for the life of do 15K at a 5:24/K pace right now. &lt;/p&gt;
+&lt;h3&gt;In other words: not the &lt;em&gt;progress&lt;/em&gt;, but the &lt;em&gt;process&lt;/em&gt; means the most to me. I’m no poet, but there is a metaphor to be made here.&lt;/h3&gt;
+&lt;p&gt;Does that mean that I don’t see the added value of setting goals, striving for something? No. That’s why I wanted to run a half marathon in the first place. &lt;/p&gt;
+&lt;p&gt;However, what would have happened if I did run it? Slow start, banana, strong finish, petite tear of pride &amp;#x26; joy, the whole shebang. &lt;/p&gt;
+&lt;p&gt;And then what? Progress made, goal achieved, stop running? No way.  I would have been back at the park, kicking life in the teeth. &lt;/p&gt;
+&lt;p&gt; It’s not these grand milestones that define me, that define all of us. &lt;/p&gt;
+&lt;p&gt;It’s what happens in between. The training, the good days, the shit days, the rest, the thinking, the doubting, the reassuring, the giving up and calling it a day, the starting back up again.&lt;/p&gt;
+&lt;h3&gt;The work is the goal. The process is the progress. We should treat these words like the interchangeable forces they are.&lt;/h3&gt;
+&lt;p&gt;I would happily train all my life for a race that will never happen. Because if I have trained the right way, and the big day rolls around, I will have arrived at the point where I am at peace with anything. &lt;/p&gt;
+&lt;p&gt;That means I may still get disappointed, things may still hurt me. But it also means that I know that the process of getting here was worth more than the actual crossing of the finish line.&lt;/p&gt;
+&lt;h3&gt;OK, I’m going to throw up now.&lt;/h3&gt;
+&lt;h6&gt;Oh and by the way, I wrote this blog in part as a reminder to myself. This is the way I &lt;em&gt;want&lt;/em&gt; to look at my life. But I am not enlightened or anything.&lt;/h6&gt;
+&lt;h6&gt;I got it right this time, with the running and the covid and shit. But I get it wrong in other aspect of my life all the time. Oh well, all part of the process I guess.&lt;/h6&gt;</content:encoded></item><item><title><![CDATA[On why organizational ethnography matters (to me)]]></title><description><![CDATA[Studying organizational culture is both wonderfully adventurous and hopelessly confusing.  Adventurous because it may provide a gateway into…]]></description><link>https://www.trustcharliedickens.com/why-ethnography-matters/</link><guid isPermaLink="false">https://www.trustcharliedickens.com/why-ethnography-matters/</guid><pubDate>Fri, 19 Mar 2021 17:42:33 GMT</pubDate><content:encoded>&lt;p&gt;Studying organizational culture is both wonderfully adventurous and hopelessly confusing. &lt;/p&gt;
+&lt;p&gt;Adventurous because it may provide a gateway into a fascinating microcosmos full of rituals, strange words and other idiosyncratic oddities. Confusing because people in organizations rarely &lt;em&gt;talk about&lt;/em&gt; organizational culture the same way they &lt;em&gt;“do”&lt;/em&gt; organizational culture. &lt;/p&gt;
+&lt;p&gt;Organizations can be very cooperative, fruitful objects of study - provided that they believe that the topic of study is somehow of value or benefit to them. If the topic of study is organizational culture (or worse yet: their organizational culture), their willingness and enthusiasm tends to vanish. During my time as a student in Culture, Organization and Management, I encountered this first-hand. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c5cc4f5b453da6b3d4312d97103cdac7/6a068/audrey.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 77.02702702702703%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAECAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAeIlBrQgj//EABoQAAEFAQAAAAAAAAAAAAAAABEAARAhMUH/2gAIAQEAAQUCbOlGo//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/Aaf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAVEAEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAQAGPwJj/8QAGhAAAgIDAAAAAAAAAAAAAAAAARAAESExUf/aAAgBAQABPyHbDhIqfT//2gAMAwEAAgADAAAAEJMf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/EEYWt//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/EIj/xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAxIWH/2gAIAQEAAT8Q74QfdCNEeRwAmQIPrGhv/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;audrey&quot;
+        title=&quot;audrey&quot;
+        src=&quot;/static/c5cc4f5b453da6b3d4312d97103cdac7/1c72d/audrey.jpg&quot;
+        srcset=&quot;/static/c5cc4f5b453da6b3d4312d97103cdac7/a80bd/audrey.jpg 148w,
+/static/c5cc4f5b453da6b3d4312d97103cdac7/1c91a/audrey.jpg 295w,
+/static/c5cc4f5b453da6b3d4312d97103cdac7/1c72d/audrey.jpg 590w,
+/static/c5cc4f5b453da6b3d4312d97103cdac7/a8a14/audrey.jpg 885w,
+/static/c5cc4f5b453da6b3d4312d97103cdac7/6a068/audrey.jpg 960w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;There is a spy among us&lt;/h3&gt;
+&lt;p&gt;In late 2018, I tried to convince an organization to allow me to conduct my thesis fieldwork inside their company. I had my eyes set on MusicMatch, a relatively small agency that curates or creates music for moving images, mostly advertising campaigns. It struck me that in my attempt to pitch my research ambitions to them, I sounded more like an investigative journalist or a spy than an aspiring academic. &lt;/p&gt;
+&lt;p&gt;After some negotiations, I was ultimately able to join MusicMatch as an administrative intern while they reluctantly allowed me to conduct my fieldwork as well. &lt;/p&gt;
+&lt;p&gt;As far as they were concerned, I was researching the presupposed tension between artistic and economic logic within the context of a commercial music agency. Technically, I did research that. However, between the lines of what was being said while I was working away in their open office space in the centre of Amsterdam, I picking up certain themes that ran much deeper than my initial research question. The talking, laughter, complaining, confusion, sighing, shouting and singing (there was lots of that) - in other words: the organizations’ everydayness - painted a picture that was much more complex than I could have imagined initially. &lt;/p&gt;
+&lt;p&gt;I have tried to capture part of that picture in my &lt;a href=&quot;https://www.ubvu.vu.nl/pub/fulltext/scripties/26_2544913_0.pdf&quot;&gt;MSc thesis&lt;/a&gt; ‘The Wow-Jobs, The Cash Cows and The Misfits: An ethnography on the tension between economic logic and artistic logic in a commercial music agency’. I’m still not over how much of a mouthful that title is - what the hell was I thinking?. &lt;/p&gt;
+&lt;p&gt;*Of course, the portrait that is an organizations’ culture is never completely finished. Yet I am convinced it would not even be possible to make a rough sketch of it without ethnography.
+*&lt;/p&gt;
+&lt;h3&gt;On being an observant participator&lt;/h3&gt;
+&lt;p&gt;I was able to capture (fragments of) MusicMatch’s organizational culture by immersing myself in the organization as an observant participator (&lt;a href=&quot;https://www.researchgate.net/file.PostFileLoader.html?id=56a087215f7f7107118b4584&amp;#x26;assetKey=AS%3A320233095532547%401453360928626#page=152&quot;&gt;Moeran, 2009&lt;/a&gt;). This combination is key. Had I been a mere observer, I would not have been privy to what Goffman (&lt;a href=&quot;https://books.google.nl/books?hl=nl&amp;#x26;lr=&amp;#x26;id=I_x-pc2SJX0C&amp;#x26;oi=fnd&amp;#x26;pg=PA46&amp;#x26;dq=goffman+1959+presentation+of+self&amp;#x26;ots=_D6qWpf72C&amp;#x26;sig=GGTTKEK2QRwEa6v2rcpTi-wIYmQ&amp;#x26;redir_esc=y#v=onepage&amp;#x26;q=goffman%201959%20presentation%20of%20self&amp;#x26;f=false&quot;&gt;1959&lt;/a&gt;) calls back stage behavior. &lt;/p&gt;
+&lt;p&gt;However, observant participator is a role I had to grow into. How? By just showing up to the office. By doing the work. Talking with organizational members the way I would with a colleague. Building relationships. Becoming a colleague. &lt;/p&gt;
+&lt;p&gt;Moeran’s thinking heavily informed my decision making in the field. For instance, during the first three weeks in the field, I would not talk about my research to organizational members, let alone do formal interviews with them. I would just do the work. Obviously, some of them were curious about my research. &lt;/p&gt;
+&lt;p&gt;I remember one instance where I ran into Keith, the executive creative director and partner of the agency, in the bathroom. He greeted me by saying: “well, well, well, there he is: mister researcher!” This interaction, though small and seemingly innocent, made one thing very poignant: if I ever wanted to gain the trust of organizational members, it was critical to not be perceived as ‘mister researcher’. Instead, I had to be perceived as just Charlie: a colleague. So I that’s what I did.   I would simply tell curious organizational members that “my research question not completely clear yet, I am still working on my proposal.” I feared that talk of issues like ‘company culture’ or ‘sensemaking’ would only solidify my position as ‘mister researcher’.
+ It is these kinds of considerations that show the uniqueness of organizational ethnography as a research method within social sciences. It happens at the scene (&lt;a href=&quot;https://books.google.nl/books?hl=nl&amp;#x26;lr=&amp;#x26;id=LLq85M0LQk4C&amp;#x26;oi=fnd&amp;#x26;pg=PP2&amp;#x26;dq=ybema+et+al+2009&amp;#x26;ots=CTdUfGvf-D&amp;#x26;sig=OwQnN6kYRl_MT3aCNGYz_o4-TLw#v=onepage&amp;#x26;q=ybema%20et%20al%202009&amp;#x26;f=false&quot;&gt;Ybema et al., 2009&lt;/a&gt;) and is about “getting one’s hands dirty.” (Hobbs &amp;#x26; May, 1993, cited in &lt;a href=&quot;https://journals.sagepub.com/doi/abs/10.1177/001872679705000905&quot;&gt;Bate, 1997&lt;/a&gt;). &lt;/p&gt;
+&lt;p&gt;This makes ethnography inherently personal, which is why any researcher that does ethnographic research has to write themselves into the story. &lt;/p&gt;
+&lt;p&gt;Ultimately, that is what makes organizational ethnography important to me. Other strains of social science (and science at large) may use research methods characterized by the tendency to describe/explain/predict things objectively. This is ambitious, yet bound to fail. Social science is never neutral and always subjective in some way. In fact, some critics see this as a weakness and evidence that social science is somehow inferior to other academic fields or even pseudo-science. Organizational ethnography embraces this so-called weakness in a really powerful way. And that’s why it matters to me. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[On Charlie Dickens: a true name changer]]></title><description><![CDATA[I have decided to change my first name to Charlie. This blog serves two main purposes: To briefly give some insights into this decision; To…]]></description><link>https://www.trustcharliedickens.com/a-real-name-changer/</link><guid isPermaLink="false">https://www.trustcharliedickens.com/a-real-name-changer/</guid><pubDate>Mon, 01 Mar 2021 21:38:33 GMT</pubDate><content:encoded>&lt;h3&gt;I have decided to change my first name to Charlie.&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;This blog serves two main purposes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;To briefly give some insights into this decision;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;To give friends, family, colleagues and others some kind of guide to the practicalities of this decision.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6110716313f7147fb5b5364f2e3fb795/e5166/charlie%20parker.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 52.70270270270271%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABXZpImZ4f/8QAGxAAAgIDAQAAAAAAAAAAAAAAAgMBERATIjL/2gAIAQEAAQUCLloEFFWF+WTOz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAEDBQAAAAAAAAAAAAAAAAABESECEDJBUf/aAAgBAQAGPwJ+mSEJZyqdn//EABoQAAMBAQEBAAAAAAAAAAAAAAABIRFBcbH/2gAIAQEAAT8hsd6uhykellRNbTIx3vqfR6gf/9oADAMBAAIAAwAAABAI7//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAAIDAAMBAAAAAAAAAAAAAAERACExQVFhgf/aAAgBAQABPxAweSSVLC6+Q4BjeEQdMswN+KIhVstbAPyH1QQ3gT//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;parker&quot;
+        title=&quot;parker&quot;
+        src=&quot;/static/6110716313f7147fb5b5364f2e3fb795/1c72d/charlie%20parker.jpg&quot;
+        srcset=&quot;/static/6110716313f7147fb5b5364f2e3fb795/a80bd/charlie%20parker.jpg 148w,
+/static/6110716313f7147fb5b5364f2e3fb795/1c91a/charlie%20parker.jpg 295w,
+/static/6110716313f7147fb5b5364f2e3fb795/1c72d/charlie%20parker.jpg 590w,
+/static/6110716313f7147fb5b5364f2e3fb795/a8a14/charlie%20parker.jpg 885w,
+/static/6110716313f7147fb5b5364f2e3fb795/fbd2c/charlie%20parker.jpg 1180w,
+/static/6110716313f7147fb5b5364f2e3fb795/e5166/charlie%20parker.jpg 1200w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;¿Dime por qué?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A surname is a hereditary name. A given name is &lt;em&gt;given&lt;/em&gt; to you.&lt;/p&gt;
+&lt;p&gt;For almost all of my life, I have struggled to identify with my given name.
+I could go into hundreds of different reasons why and just as many anecdotes to back those reasons up.
+Some painful, some funny. &lt;/p&gt;
+&lt;p&gt;But I won’t do that. &lt;/p&gt;
+&lt;p&gt;I know myself and I know my lived experiences.
+I know that my given name has been the cause of a great deal of shame, stress and sadness. &lt;/p&gt;
+&lt;p&gt;I also know that I have played with the possibility of changing my name throughout the past 10 years or so. &lt;/p&gt;
+&lt;p&gt;However, a serious case of self sabotage plus a serious lack of self love has kept me from biting the bullet in the past:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“Just own it”&lt;/strong&gt;;
+&lt;strong&gt;“Face it head-on”&lt;/strong&gt;;
+&lt;strong&gt;“Take pride &amp;#x26; find power in it”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;~&lt;/p&gt;
+&lt;p&gt; &lt;strong&gt;“Changing it means admitting defeat”&lt;/strong&gt;; &lt;strong&gt;“Admitting defeat means running away”&lt;/strong&gt;; &lt;strong&gt;“Running away means showing the world how insecure you truly are, and that can’t happen”&lt;/strong&gt; s&lt;strong&gt;“Changing it means losing face”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b9a0ded9a48a43fb2db7bfbb575e3b92/29d31/charlie%20chaplin.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAeLXHSGD/8QAGRABAQADAQAAAAAAAAAAAAAAAQIAEDES/9oACAEBAAEFApPVDEZXTqa//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAQQDAAAAAAAAAAAAAAAAAQACEFERInH/2gAIAQEABj8CAtBuNrlnY//EABgQAAMBAQAAAAAAAAAAAAAAAAABIRFR/9oACAEBAAE/Ib7jbKbQzpcGC+FChB10/9oADAMBAAIAAwAAABBQz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQACAQUAAAAAAAAAAAAAAAEAESExQWGh4f/aAAgBAQABPxBQzQHAjBHUtkOhLFQHCxgRrfqPgDyMIrk3P//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;a picture of charlie chaplin&quot;
+        title=&quot;a picture of charlie chaplin&quot;
+        src=&quot;/static/b9a0ded9a48a43fb2db7bfbb575e3b92/1c72d/charlie%20chaplin.jpg&quot;
+        srcset=&quot;/static/b9a0ded9a48a43fb2db7bfbb575e3b92/a80bd/charlie%20chaplin.jpg 148w,
+/static/b9a0ded9a48a43fb2db7bfbb575e3b92/1c91a/charlie%20chaplin.jpg 295w,
+/static/b9a0ded9a48a43fb2db7bfbb575e3b92/1c72d/charlie%20chaplin.jpg 590w,
+/static/b9a0ded9a48a43fb2db7bfbb575e3b92/29d31/charlie%20chaplin.jpg 700w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Looking back and analyzing my own behavior has been both confrontational and helpful. &lt;/p&gt;
+&lt;p&gt;Through an unfortunate series of events (I see you, 2020), I now find my self in a fortunate place in life.&lt;/p&gt;
+&lt;p&gt;Funny how that works right?&lt;/p&gt;
+&lt;p&gt;For the first time, I saw my behavior for what it was.
+I realized I wasn’t living my life for me.
+I also wasn’t living my life for other people.
+I was living my life for what I thought other people thought about me.&lt;/p&gt;
+&lt;p&gt;I decided I didn’t want that anymore, so I hit myself with an ultimatum: &lt;/p&gt;
+&lt;p&gt;it’s either &lt;strong&gt;them&lt;/strong&gt; or &lt;strong&gt;me&lt;/strong&gt;. &lt;/p&gt;
+&lt;p&gt;Or rather:   it’s either &lt;strong&gt;my self-perception throught others’ eyes&lt;/strong&gt; or &lt;strong&gt;me&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I am happy to say, I chose me.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 292px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8e5a5e40d1c2768aeb7d2ff756ae34ae/115fe/charlie%20bit%20me.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.45945945945946%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQADBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABP7TU8mLKC//EABsQAQACAgMAAAAAAAAAAAAAAAECAxEhABMx/9oACAEBAAEFAqXZ1ySzHExI8m7/AP/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPwGMf//EABYRAQEBAAAAAAAAAAAAAAAAAAABIf/aAAgBAgEBPwGtf//EABoQAAEFAQAAAAAAAAAAAAAAAAEAAhARUTH/2gAIAQEABj8CKBLe4qqGDY//xAAbEAEAAwEAAwAAAAAAAAAAAAABABExQSFRYf/aAAgBAQABPyHRS68XClBVNs+yhbMKs4zhHS9Z6Zk//9oADAMBAAIAAwAAABC/L//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQMBAT8Qh4JIf//EABcRAAMBAAAAAAAAAAAAAAAAAAABIVH/2gAIAQIBAT8Qijej/8QAHBAAAwEBAAMBAAAAAAAAAAAAAREhADFBYXGB/9oACAEBAAE/EGp4Mhs/DM6DISFUePa1pM13HRyRB9xgc4fDIbcQ0SL+b//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;a pic of the meme&quot;
+        title=&quot;a pic of the meme&quot;
+        src=&quot;/static/8e5a5e40d1c2768aeb7d2ff756ae34ae/115fe/charlie%20bit%20me.jpg&quot;
+        srcset=&quot;/static/8e5a5e40d1c2768aeb7d2ff756ae34ae/a80bd/charlie%20bit%20me.jpg 148w,
+/static/8e5a5e40d1c2768aeb7d2ff756ae34ae/115fe/charlie%20bit%20me.jpg 292w&quot;
+        sizes=&quot;(max-width: 292px) 100vw, 292px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;OK, now what?&lt;/h3&gt;
+&lt;p&gt;This is where you come in.
+Whoever you are, whatever your connection to me is - this will affect you as well.
+And I need you on board to make this work. &lt;/p&gt;
+&lt;p&gt;I’m going to be honest: it’s going to be tricky for the both of us. But I promise to be patient and understanding yet firm and consistent with you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Here’s a few things you can do (or not do) to help:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;Change my name in your phone&lt;/em&gt; - this way you will associate my digital presence (texts, pictures, etc.) with &lt;strong&gt;Charlie&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Questions, thoughts, suggestions? Just reach out to me&lt;/em&gt; - it’s not that weird to be curious about this. And while yes - I’ve struggled with my given name, it is not some dark trauma that may never be spoken of again.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Don’t feel defensive when I or someone else corrects you&lt;/em&gt; - look, I don’t believe in magic. And I don’t expect everyone to get it right overnight. I understand that you will need time to adjust. However, appreciate that this isn’t about you. I’m not offended, I’m just trying to be consistent. &lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Don’t get hung up on the logistics&lt;/em&gt; - I am aware that legally changing your name is complicated, expensive and involves a lawyer. Leave that up to me. All you need to worry about is calling me the right name.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Keep smiling. &lt;a href=&quot;www.trustcharliedickens.com&quot;&gt;Trust me&lt;/a&gt;, I will too&lt;/em&gt; - like I said, this is not a story of trauma. Keep in mind that I, for one, am very, very excited about this. I used to view this as a negative thing, but now I feel an incredible amount of happiness. I hope you feel that too. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;Big bless,&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;with love peace and understanding from the artist formerly known as Dick Thole,&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Charlie Thole.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4d935b480944774c9cfe6477bb642568/a2510/charles%20dickens.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHmdHFaZlglqCQP/8QAHBAAAgICAwAAAAAAAAAAAAAAAgMAARESBBMh/9oACAEBAAEFAh135CxxAuhg7WmsRQ0w2eM6xn//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAeEAACAAYDAAAAAAAAAAAAAAABAgAQERIhMSIyUf/aAAgBAQAGPwIXagOgoupEsK4ipHH2Sq2osHUHAl//xAAbEAEAAwEAAwAAAAAAAAAAAAABABExIUFRcf/aAAgBAQABPyFimt+1DedguVONKxNiJoTrEzpNynqUYg+clGFT/9oADAMBAAIAAwAAABCTyAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAdEAEAAwACAwEAAAAAAAAAAAABABEhMUFRYXGB/9oACAEBAAE/ECNAa8k9S/NNjt8/Ejua7ZS6pTH3sDBA6DRaO+I6aW65h4LUoqYFiDw4qKqr+Bn/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;a picture of charles dickens&quot;
+        title=&quot;a picture of charles dickens&quot;
+        src=&quot;/static/4d935b480944774c9cfe6477bb642568/1c72d/charles%20dickens.jpg&quot;
+        srcset=&quot;/static/4d935b480944774c9cfe6477bb642568/a80bd/charles%20dickens.jpg 148w,
+/static/4d935b480944774c9cfe6477bb642568/1c91a/charles%20dickens.jpg 295w,
+/static/4d935b480944774c9cfe6477bb642568/1c72d/charles%20dickens.jpg 590w,
+/static/4d935b480944774c9cfe6477bb642568/a8a14/charles%20dickens.jpg 885w,
+/static/4d935b480944774c9cfe6477bb642568/a2510/charles%20dickens.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[On gaming the system: a 7-step plan towards algorithm autonomy]]></title><description><![CDATA[Full disclosure: I don’t know jack shit about algorithms and I don’t want to give the impression that I do. Remember that brief moment when…]]></description><link>https://www.trustcharliedickens.com/on-gaming-the-system/</link><guid isPermaLink="false">https://www.trustcharliedickens.com/on-gaming-the-system/</guid><pubDate>Mon, 15 Feb 2021 21:48:33 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;Full disclosure: I don’t know jack shit about algorithms and I don’t want to give the impression that I do.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Remember that brief moment when it seemed everyone (in my bubble at least) could talk about was that Netflix documentary/awkward mini-movie The Social Dilemma? Upon watching it, two thoughts prevailed:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;“Oh man, this is baaaaad. I kind of knew social media was toxic but now I’m going to have to delete everything!” &lt;/li&gt;
+&lt;li&gt;“This is just the tip of the iceberg. People with a &lt;em&gt;real&lt;/em&gt; understanding of algorithms, their design to up my screen time and increase the value of ad slots must be thinking: ‘we told you so Charlie, you’re just now getting in on this?’” &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This temporary episode of anxiety made me feel part of the sheeple.
+Not a great feeling. &lt;/p&gt;
+&lt;p&gt;Highly uninformed and highly impressionable, I imagined myself the target victim of big tech corporations’ dopamine-driven feedback loops &amp;#x26; rabbit holes. All I was to them was just another cow to milk. &lt;/p&gt;
+&lt;p&gt;And I thought I was special!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Again, full disclosure: I probably am just that - another cow to milk.&lt;/em&gt; The Social Dilemma &lt;em&gt;did not diminish my daily social media intake (big whoop: I did not in fact delete everything, did you?).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6c8be9502e9e6db70e7404ed76d7c153/ec605/zark.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 104.72972972972974%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAVABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQCAQP/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAVU3c3SBZuY08gf/xAAbEAACAgMBAAAAAAAAAAAAAAAAAQIDERIhMf/aAAgBAQABBQLaeV5mxDjEjajeTLH2PRH/xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAwEBPwECP//EABYRAAMAAAAAAAAAAAAAAAAAAAAQEv/aAAgBAgEBPwEl/wD/xAAfEAACAQIHAAAAAAAAAAAAAAAAARECAxASISIzQVH/2gAIAQEABj8CjMbrmpyHY14NkFWH/8QAHBABAAICAwEAAAAAAAAAAAAAAQARMUEhUWGB/9oACAEBAAE/IdevuFW0+I4YrOZoI+Spce6yQSFtuo9tIa8k4mE//9oADAMBAAIAAwAAABCw2Dz/xAAYEQEAAwEAAAAAAAAAAAAAAAABABAhMf/aAAgBAwEBPxBbpMOX/8QAGREAAgMBAAAAAAAAAAAAAAAAABEBEEEh/9oACAECAQE/EJa4Jplf/8QAHxABAQACAgEFAAAAAAAAAAAAAREAITFBUWFxkeHx/9oACAEBAAE/EBNTslAa5xiwbSYYtKWk+mKjFbY1gSSRd7+2Q9V4UPT4mLIweMV6TqPhM39j1n//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;a picture of zark&quot;
+        title=&quot;a picture of zark&quot;
+        src=&quot;/static/6c8be9502e9e6db70e7404ed76d7c153/1c72d/zark.jpg&quot;
+        srcset=&quot;/static/6c8be9502e9e6db70e7404ed76d7c153/a80bd/zark.jpg 148w,
+/static/6c8be9502e9e6db70e7404ed76d7c153/1c91a/zark.jpg 295w,
+/static/6c8be9502e9e6db70e7404ed76d7c153/1c72d/zark.jpg 590w,
+/static/6c8be9502e9e6db70e7404ed76d7c153/a8a14/zark.jpg 885w,
+/static/6c8be9502e9e6db70e7404ed76d7c153/ec605/zark.jpg 1125w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;However, the unadulterated teenage soap opera on the ‘flix had me asking myself some long overdue questions:
+ How do I engage with algorithms? &lt;/p&gt;
+&lt;p&gt;How much influence do they have on my life?&lt;/p&gt;
+&lt;p&gt;How do they inform my decision making? &lt;/p&gt;
+&lt;p&gt;Was it all just a dream?!&lt;/p&gt;
+&lt;p&gt;Once that medium-sized personality crisis was over, I started plotting &amp;#x26; scheming.
+God damn it, I’m not part of the sheeple, I’m a right-minded guy. &lt;/p&gt;
+&lt;p&gt;I can use these algorithms in a way that enhances my life. If I’m going to binge, I want to binge content that gives me energy. If I’m going to fall down one of those infamous Youtube rabbit-holes, I want to come out of it inspired; having learned something. &lt;/p&gt;
+&lt;h3&gt;Let me elaborate on my plan.&lt;/h3&gt;
+&lt;p&gt;You undoubtedly know the feeling: you snap out of a boredom-induced scrolling sesh thinking: “what the hell did I just spend 20 minutes of my life on?” &lt;/p&gt;
+&lt;p&gt;Social media platforms understand our &lt;a href=&quot;https://www.youtube.com/watch?v=j-N2icd1cE8&quot;&gt;lizard&lt;/a&gt; brains, our primary reactions and emotions to all things colorful, shiny and potentially interesting. They understand what keeps us engaged better than we do ourselves. &lt;/p&gt;
+&lt;p&gt;This is why you may find yourself watching a staggering 7 minutes worth of bridesmaid-catches-bouqet Instagram reels, while you are not particularly interested that subject (…right?).
+Again, not an expert; just spitballing here - you can &lt;a href=&quot;www.trustcharliedickens.com&quot;&gt;trust me&lt;/a&gt; though. &lt;/p&gt;
+&lt;p&gt;Now I don’t know about you, but I hate zoning out like that. I don’t enjoy feeling like my autonomy is being stolen. &lt;/p&gt;
+&lt;h3&gt;So what’s a boy to do&lt;a href=&quot;https://www.youtube.com/watch?v=UyOOYn3A_6I&quot;&gt;?&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;How can you win a fight against a system that is smarter more powerful than you? Maybe someday I’ll give it a try, but I just don’t feel like deleting everything right now. &lt;/p&gt;
+&lt;p&gt;  This is where my 7-step plan comes in. Don’t worry, it’s tried-and-true, totally scientifically substantiated and &lt;em&gt;definitely effective&lt;/em&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Don’t stop consuming content&lt;/li&gt;
+&lt;li&gt;Do start watching content &lt;em&gt;intentionally&lt;/em&gt;:&lt;/li&gt;
+&lt;li&gt;Write down a list of things that give you energy and enhance your life (for me: cooking, running, art, music)&lt;/li&gt;
+&lt;li&gt;Follow accounts related to these subjects&lt;/li&gt;
+&lt;li&gt;Binge content related to these subjects&lt;/li&gt;
+&lt;li&gt;Repeat until the algorithm understands that you have changed your ways&lt;/li&gt;
+&lt;li&gt;Take pride in the fact that you, my friend, are not part of the sheeple&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Now did they throw that bouquet yet?&lt;/h3&gt;</content:encoded></item><item><title><![CDATA[On language and LinkedIn titles]]></title><description><![CDATA[I apologize in advance for the uhh lack of vibes in this one.  Language is important to me. It’s not just the vehicle humans use to describe…]]></description><link>https://www.trustcharliedickens.com/on-language-and-linkedin/</link><guid isPermaLink="false">https://www.trustcharliedickens.com/on-language-and-linkedin/</guid><pubDate>Sat, 06 Feb 2021 13:12:33 GMT</pubDate><content:encoded>&lt;h3&gt;I apologize in advance for the uhh&lt;/h3&gt;
+&lt;h3&gt;lack of vibes in this one.&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 540px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1d253cf32643a05b29335b1d6f04362e/09d21/george.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 72.97297297297297%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBA//EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGdxyicf//EABoQAQEAAgMAAAAAAAAAAAAAAAECESEAEiL/2gAIAQEAAQUCqusl+qRVzzG03//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPwFtf//EABkQAAMAAwAAAAAAAAAAAAAAAAABEBExYf/aAAgBAQAGPwIa4bmZ/8QAGhAAAwEAAwAAAAAAAAAAAAAAAAERITFRgf/aAAgBAQABPyHREC2crw4DWDRd0hq0/9oADAMBAAIAAwAAABBHz//EABgRAQEAAwAAAAAAAAAAAAAAAAEAESFB/9oACAEDAQE/EMbJF5f/xAAWEQEBAQAAAAAAAAAAAAAAAAABAEH/2gAIAQIBAT8QWC2//8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFRYXGh/9oACAEBAAE/EMZtJz7lCVSH7FmAVnSCEioUOKzwTKtV5P/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;george from Seinfeld&quot;
+        title=&quot;george from Seinfeld&quot;
+        src=&quot;/static/1d253cf32643a05b29335b1d6f04362e/09d21/george.jpg&quot;
+        srcset=&quot;/static/1d253cf32643a05b29335b1d6f04362e/a80bd/george.jpg 148w,
+/static/1d253cf32643a05b29335b1d6f04362e/1c91a/george.jpg 295w,
+/static/1d253cf32643a05b29335b1d6f04362e/09d21/george.jpg 540w&quot;
+        sizes=&quot;(max-width: 540px) 100vw, 540px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Language is important to me. It’s not just the vehicle humans use to describe reality – it’s also the way we prescribe it. I don’t mean to go full social constructivist on you, but I do subscribe to the idea that language and reality are a two-way street. They’re two sides of the same coin. The words we use to talk about reality simultaneously (and sometimes inadvertently) shape reality. Once we understand and accept this, we should realize that our words matter. They have an impact.&lt;/p&gt;
+&lt;h3&gt;I really respect people&lt;/h3&gt;
+&lt;p&gt;that are able to use language (and thus shape reality) in a clear, clean and relatable (CCR) way. However, CCR language is not always the same thing as objective, rational language that describes the world as true-to-nature as possible. In fact, sometimes CCR language means being poetic, using metaphors, being elusive even. I fully accept that this may sound contradictory. But think of the great writers in world literature. What do they have in common?&lt;/p&gt;
+&lt;p&gt;They all have a sensibility for language that allows them to not only describe (image how boring that would be) but shape too.
+Poetic license can be good. Great even. In my humble opinion, the most thought-provoking texts are often the ones that border on pretentiousness. Through their use of words, they achieve clear, clean and relatable language. The kind that can draw up imaginative worlds we happily get lost in.  &lt;/p&gt;
+&lt;h3&gt;Having said all of this:&lt;/h3&gt;
+&lt;p&gt;for fuck’s sake, can we please dial down on poetic license when it comes to picking out LinkedIn titles? Geez.&lt;/p&gt;
+&lt;p&gt;My job requires me to spend a not-insignificant amount of time on the corporate networking jungle that is LinkedIn. And in all honesty, I don’t like what I read a lot of the time. My feed is filled with self-employed professionals, mostly in the marketing, PR, communications and change management field. Many of them use LinkedIn as their primary marketing and networking platform.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;A small disclaimer is in order before I continue: I respect the entrepreneurial challenges (and hardships) of being self-employed. I understand the need to sell your personal brand. But challenges and hardships don’t justify poor taste. Have some decency.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I present to you a random selection of the LinkedIn titles I have personally encountered in the wild. These are in Dutch, so some of their cringyness might be lost in translation:&lt;/p&gt;
+&lt;h3&gt;Allround veranderaar (“allround changer”)&lt;/h3&gt;
+&lt;h3&gt;Betekenaar (an awkward aggregation of “cartoonist” and “meaning”)&lt;/h3&gt;
+&lt;h3&gt;Doenker (an even more awkward aggregation of “do-er” and “thinker”)&lt;/h3&gt;
+&lt;h3&gt;Energiegever (“energy giver”)&lt;/h3&gt;
+&lt;h3&gt;Gepassioneerde verbinder (“passionate connecter”)&lt;/h3&gt;
+&lt;p&gt;I am going to leave it at that for now.&lt;/p&gt;
+&lt;p&gt;Now, let me briefly state what is wrong with titles like these:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;They’re annoying. I should not have to elaborate on that. (This is the biggest issue).&lt;/li&gt;
+&lt;li&gt;They are counterproductive. Potential clients won’t understand what you can offer them.&lt;/li&gt;
+&lt;li&gt;Not everyone (in fact: almost no one) can pull off the whole ‘guru-look’. Again, not going to elaborate.&lt;/li&gt;
+&lt;li&gt;Finally - and this is a big one - you don’t need to be unique at all costs. Again, I understand the ever-growing necessity to distinguishing oneself from peers (or competitors). But don’t just lean on your “great” sense of creativity when it comes to putting together empty, LinkedIn-friendly buzz words.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;That’s it.&lt;/h1&gt;
+&lt;p&gt;That’s all I’ve got to say.&lt;/p&gt;
+&lt;p&gt;I won’t propose better alternatives.&lt;/p&gt;
+&lt;p&gt;Yes, this is self-serving.&lt;/p&gt;
+&lt;p&gt; Trust me, I know this is a spew of negativity. (Always &lt;a href=&quot;www.trustcharliedickens.com&quot;&gt;trust me&lt;/a&gt; btw).&lt;/p&gt;
+&lt;p&gt; Fair enough, you might even ask me to get of my high horse. But I won’t. Just write what you do.&lt;/p&gt;
+&lt;h3&gt;And if you’re not sure what you do exactly (and I think this is true for many, if not most people), just be sure to whip out the poetic license on another occasion.&lt;/h3&gt;
+&lt;p&gt;OK, now that I got that out of my system: back to life, &lt;a href=&quot;https://www.youtube.com/watch?v=uEiszPROhlQ&amp;#x26;ab_channel=DJOneLove&quot;&gt;back to reality&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Playlist context: ridin' that dark wave]]></title><description><![CDATA[That’s the name I gave a playlist I made some time ago. It seeks to express and celebrate a particular moody, dark, sorrowful aesthetic. It…]]></description><link>https://www.trustcharliedickens.com/playlist-context-rtdw/</link><guid isPermaLink="false">https://www.trustcharliedickens.com/playlist-context-rtdw/</guid><pubDate>Thu, 28 Jan 2021 17:12:33 GMT</pubDate><content:encoded>&lt;h3&gt;That’s the name I gave a &lt;a href=&quot;https://open.spotify.com/playlist/40niTHxZ918BwNFpHQBpNf?si=kp-zSJZwToOCyx6FlGiSSQ&quot;&gt;playlist&lt;/a&gt; I made some time ago.&lt;/h3&gt;
+&lt;p&gt;It seeks to express and celebrate a particular moody, dark, sorrowful aesthetic. It’s not appropriate for every occasion, but it actually brings me a great deal of joy &amp;#x26; a real sense of power to dabble in a darker vibe from time to time. I can’t put my finger on the exact reasons why, but it feels really good to lean into art that channels negative emotions now and then. It brings me a closer to the edgelord in me, for better or worse.&lt;/p&gt;
+&lt;p&gt;I just now googled around a little bit, and found &lt;a href=&quot;https://blogs.unimelb.edu.au/sciencecommunication/2018/09/24/the-sadness-paradox-why-do-we-enjoy-listening-to-music-that-makes-us-sad/&quot;&gt;this interesting blog&lt;/a&gt;. Check it out if you are curious about a well-informed exploration of why humans are attracted to music that channels sadness.&lt;/p&gt;
+&lt;p&gt;This playlist has two main inspirations: a very cool &lt;a href=&quot;https://open.spotify.com/playlist/1CAxQAr41Dy57dYnYS40Rn?si=QP0Glt1gSvCYCAbmJ4GT-w&quot;&gt;Blue Monday-themed playlist&lt;/a&gt; I found last year (I blatantly borrowed some tracks from it) and the excellent movie &lt;a href=&quot;https://youtu.be/ycOKvWrwYFo&quot;&gt;Only lovers left alive&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Now for the visual.&lt;/h3&gt;
+&lt;p&gt;I love putting sounds and visuals together. Sometimes a combination just works, trust me (always &lt;a href=&quot;/&quot;&gt;trust charlie dickens&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;When words fail to convey, count on music. And when music can’t be verbalized, turn to visuals.&lt;/p&gt;
+&lt;h3&gt;Bearing in mind the limited imaginative breadth of words, allow me to freewheel and to demonstrate.&lt;/h3&gt;
+&lt;p&gt;When I listen to some of the songs in this playlist, I have a recurring vision in my head.&lt;/p&gt;
+&lt;h3&gt;It’s me.&lt;/h3&gt;
+&lt;p&gt;On a surfboard.&lt;/p&gt;
+&lt;p&gt;On a wave.&lt;/p&gt;
+&lt;h3&gt;That’s at least 30 feet tall.&lt;/h3&gt;
+&lt;h1&gt;And the water is pitch black.&lt;/h1&gt;
+&lt;p&gt;Chew on that image for a while.
+I mean, really bask in the glory that is me ridin’ that dark wave like I am the baddest, most fearless motherfucker in world.&lt;/p&gt;
+&lt;p&gt;And now look at this visual I curated in conjunction with this playlist.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f18a654f3597cabf63cdff129706e954/b1315/Sternenfall1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 119.59459459459461%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIDAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAfFXyyFDXUzqAf/EABsQAQEAAgMBAAAAAAAAAAAAAAABEzECAxES/9oACAEBAAEFAleNtPpjqdHKsUf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwEh/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8BKf/EABwQAAIABwAAAAAAAAAAAAAAAAABAhAgISIxQf/aAAgBAQAGPwKi8usyURs//8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFBUYH/2gAIAQEAAT8hCnOplqWnWNwaNIIhrFPAhCgqUdnyf//aAAwDAQACAAMAAAAQ/DAA/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAwEBPxDIIj//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAECAQE/EMsrP//EAB0QAQADAAIDAQAAAAAAAAAAAAEAESExQWFxofD/2gAIAQEAAT8QWl1avcIzGYply7gZVEvV4Qy8hmceYQghvcW/lB3AEI6Bv7kcS7so19n/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;a picture of a painting&quot;
+        title=&quot;a picture of a painting&quot;
+        src=&quot;/static/f18a654f3597cabf63cdff129706e954/1c72d/Sternenfall1.jpg&quot;
+        srcset=&quot;/static/f18a654f3597cabf63cdff129706e954/a80bd/Sternenfall1.jpg 148w,
+/static/f18a654f3597cabf63cdff129706e954/1c91a/Sternenfall1.jpg 295w,
+/static/f18a654f3597cabf63cdff129706e954/1c72d/Sternenfall1.jpg 590w,
+/static/f18a654f3597cabf63cdff129706e954/a8a14/Sternenfall1.jpg 885w,
+/static/f18a654f3597cabf63cdff129706e954/b1315/Sternenfall1.jpg 1047w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sternenfall by Anselm Kiefer, 1995. I do not own this image.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This may give you an approximation of this playlist’s context.&lt;/p&gt;
+&lt;p&gt;I don’t even surf.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[On rediscovery]]></title><description><![CDATA[Few experiences in music are as satisfying as rediscovering an album. It feels like stumbling upon a treasure you completely forgot about…]]></description><link>https://www.trustcharliedickens.com/on-rediscovery/</link><guid isPermaLink="false">https://www.trustcharliedickens.com/on-rediscovery/</guid><pubDate>Wed, 20 Jan 2021 17:12:33 GMT</pubDate><content:encoded>&lt;p&gt;Few experiences in music are as satisfying as rediscovering an album. It feels like stumbling upon a treasure you completely forgot about, one you maybe didn’t value properly the first time around. &lt;/p&gt;
+&lt;p&gt;For me, the circumstances of rediscovery don’t matter all that much. Maybe I actively hated the album in the past. Maybe (probably) the first listen didn’t even make an impression on me at all. Music isn’t always love at first sight. That’s fine.&lt;/p&gt;
+&lt;h3&gt;It’s funny to think about the way our perception of music is always changing.&lt;/h3&gt;
+&lt;p&gt;I have gone through countless different modes, as I am sure many music listeners have as well. These different modes of listening are not linear and not logical. They are ambiguous, they overlap and sometimes they’re outright contradictory. For instance, I would say that my music consumption in the latter half of 2020 was defined by a departure from Hip-hop and a return to heavier, guitar based music. &lt;/p&gt;
+&lt;p&gt;This ranged from poetic-yet-in-your-face hardcore (check out &lt;a href=&quot;https://www.youtube.com/watch?v=8edYyKxEVZs&quot;&gt;Drug Church&lt;/a&gt;) to guilty-pleasure-goth goth (to this day I mess with &lt;a href=&quot;https://youtu.be/N8n6k8QcU3k&quot;&gt;Bauhaus&lt;/a&gt; and &lt;a href=&quot;https://youtu.be/S4FC1EEdY1s&quot;&gt;Type O Negative&lt;/a&gt; heavy) and straight-up-doomer-noise (case in point: &lt;a href=&quot;https://youtu.be/534uNzGoR1s&quot;&gt;Daughters&lt;/a&gt;). &lt;/p&gt;
+&lt;p&gt;However, during that exact same period I found myself unapologetically vibing to the careless, steeped-in-mezcal sounds of &lt;a href=&quot;https://youtu.be/sdAmfm5GpXs&quot;&gt;Mapache&lt;/a&gt; as well as &lt;a href=&quot;https://youtu.be/crZvtA9I4lY&quot;&gt;HAIMs&lt;/a&gt; latest high-energy pop masterpiece. &lt;/p&gt;
+&lt;p&gt;Oh, and while all of this was happening, I was digging deep into &lt;a href=&quot;https://youtu.be/gaj3gRh5jIg&quot;&gt;DVS1’s&lt;/a&gt; sublime techno curation and DJ skills and &lt;a href=&quot;https://youtu.be/RBVRVOmLWpk&quot;&gt;Steve Bicknell’s&lt;/a&gt; heavy-duty production chops. &lt;/p&gt;
+&lt;h3&gt;My point is: sometimes, an album you don’t enjoy in the now might be perfect for your next musical phase. Maybe you just haven’t arrived there yet.&lt;/h3&gt;
+&lt;p&gt;And the delayed gratification of revisiting that same album when the time is right for it, can be one of those elusive, magical moments where the sheer joy of music reveals itself. And in my opinion, it can make you fall in love with music even harder.&lt;/p&gt;
+&lt;p&gt;By no means do I want to underscore my opinions by gratuitously using authoritative arguments. But as a graduated musicologist, I feel like I have just enough knowledge of music cognition to get away with an educated guess on what makes music rediscovery so satisfying (in other words: I am going to use authoritative arguments anyway, just try and stop me).&lt;/p&gt;
+&lt;p&gt;I like to think that music rediscovery can evoke such strong emotions because of the exposure effect (one of the most &lt;a href=&quot;https://link.springer.com/article/10.3758/BF03201171&quot;&gt;convincingly argued reasons for music preference&lt;/a&gt;), which has taken place. Musical memories have already been locked into our minds, even if the subjective experience of the first listen wasn’t especially uplifting. Have you ever been surprised by a song you used to know as an adolescent or child? Then you will surely know the giddiness, the physical impact even, this can have. Rediscovering can get you that same high, trust me (I guess now is as good a time as any to ephasize that you should always &lt;a href=&quot;www.trustcharliedickens.com&quot;&gt;trust charlie dickens&lt;/a&gt;).&lt;/p&gt;
+&lt;h3&gt;Sometimes, not always (not even often to be honest), the stars just align.&lt;/h3&gt;
+&lt;p&gt;Then, you aren’t just discovering music you at one point in your life have heard before. You are rediscovering a part of yourself. And that is cathartic as fuck. &lt;/p&gt;
+&lt;p&gt;And from the point of view of this passionate music enjoyer, that’s the good stuff, that’s the fix.&lt;/p&gt;
+&lt;p&gt;Your own inner worlds revealing themselves to you, through art.&lt;/p&gt;
+&lt;p&gt;Or - put slightly less pretentious: the actualization of &lt;em&gt;the juice&lt;/em&gt;. &lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;A handful of records I recently had the pleasure of rediscovering are:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/album/7LWTCCUFJ0USkRscNJJrI5?si=ZHO9XX0bSlmH0a6WzISn_w&quot;&gt;Hella Personal Film Festival by Open Mike Eagle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/album/5W4qpG3v95lBopIMlujxC9?si=YAgu2WKMRxGbazROXvc3vw%5D&quot;&gt;Intraverso by Fabrizio Lapiana&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H?si=kt3rCAbeRwKA1e1-v4-VFQ&quot;&gt;JEFFERY by Young Thug&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/album/0jZGvTQzUpaJxdLZZEiKey?si=93fYIH95RRyrjk0bSWorgw&quot;&gt;S/T by True Widow&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/album/6VTTkMIKHhmFsZkKXsvS5I?si=wHenKGyXTYmJiBTWFhTqeg&quot;&gt;Goths by The Mountain Goats&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/album/0PNF69e8umC9I9blwOoR8Z?si=O_zs7-SVSEamYuDg6l1BKA&quot;&gt;Phantom Studies by Dettman &amp;#x26; Klock&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;a href=&quot;https://open.spotify.com/album/43yC4eriRHqTxGpb364KaR?si=oSm4sykbSZSzu8tASlEmLg&quot;&gt;MM..FOOD by MF Doom&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;a href=&quot;https://open.spotify.com/album/5jiQPEVSDc1qCpVdQ8V0Ok?si=h7ypXe4MSDivplgLCnMsmQ&quot;&gt;You Won’t Get What You Want by Daughters&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;a href=&quot;https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud?si=TTW3EoxeQlm2YoWeNXhnNg&quot;&gt;Untitled Unmastered by Kendrick Lamar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://open.spotify.com/album/5cLiuADG0AbdLRN7zFgsUR?si=rhHEzRvqTyCM60CCkfiJTg&quot;&gt;Unhallowed by The Black Dahlia Murder&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Give them a listen, or don’t.   Anyway I encourage you to find your own treasures, you’ve surely heard them before.&lt;/em&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
