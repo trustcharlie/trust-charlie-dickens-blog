@@ -58,9 +58,10 @@ I ran today. Not a single time did I think about that half marathon. I was just 
 
 Does that mean that I don’t see the added value of setting goals, striving for something? No. That’s why I wanted to run a half marathon in the first place. 
 
-However, what would have happened if I did run it? Slow start, banana, strong finish, petite tear of pride and joy, the whole shebang. 
+However, what would have happened if I did run it? Slow start, banana, strong finish, petite tear of pride & joy, the whole shebang. 
 
 And then what? Progress made, goal achieved, stop running? No way.  I would have been back at the park, kicking life in the teeth. 
+
  It’s not these grand milestones that define me, that define all of us. 
 
 
