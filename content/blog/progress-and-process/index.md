@@ -48,7 +48,8 @@ On March 12th, I got sick. Nothing serious, just sick.
 You know, that virus thing people have been yapping about on TV non stop.
  On March 21st, I ran 0K. 
 
-Sure, I was disappointed, still am. But I realized one very crucial thing: My disappointment had little do with the cancelled half marathon. I was more frustrated with the fact that I could not run for about 11 days. 
+Sure, I was disappointed, still am. But I realized one very crucial thing:
+ My disappointment had little do with the cancelled half marathon. I was more frustrated with the fact that I could not run for about 11 days. 
 
 I ran today. Not a single time did I think about that half marathon. I was just excited to be out running again, even though I can’t for the life of do 15K at a 5:24/K pace right now. 
 
